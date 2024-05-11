@@ -1,0 +1,1 @@
+# sensor-magnetic-Attiny88
